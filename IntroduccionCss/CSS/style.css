@@ -1,0 +1,115 @@
+
+body{ 
+    background-image: url(../images.jpg);
+   
+
+    text-align: center; 
+    
+    text-transform: uppercase;  
+}
+
+
+.contenedor{ 
+
+    width: 60%; 
+    
+    height: 480px; 
+    
+    background: #155; 
+    
+    margin: 0 auto; 
+    
+    border: 3px solid #000; 
+    
+    border-radius: 4px; 
+    
+    } 
+    
+    
+        .col-a{ 
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+            
+            } 
+        .col-b{
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+        }              
+        .ficha-black{ 
+
+            font-size: 50px; 
+            
+            color: red; }
+
+            .ficha-white{ 
+
+                font-size: 50px; 
+                
+                color: blue;}
+        .col-c{
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+        }        
+        .col-d{
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+        }        
+        .col-e{
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+        }        
+        .col-f{
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+        }        
+        .col-g{
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+        }        
+        .col-h{
+            float: left;
+
+            width: 60px; 
+            
+            z-index: 100; 
+        }     
+        
+        .blanco{ 
+
+            width: 60px; 
+            
+            height: 60px; 
+            
+            background: white; 
+            
+        } 
+        .negro{ 
+    
+                width: 60px; 
+                
+                height: 60px; 
+                
+                background: black; 
+                
+            }     
